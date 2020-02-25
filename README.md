@@ -24,7 +24,7 @@
 * Обратная связь - по почте mlcoursemm@gmail.com
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/mlcoursemm2019spring/issues) :)
 ## <a name="marks" /> Результаты выполнения заданий
-* Итоговая таблица с результатами: Ссылка на гуглдокс появится после первого занятия
+* [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/1rK32FuGOz1QT5IG5jU24uPJPF6OW_UH2oSRW4PQQ1To/edit?usp=sharing)
 ## <a name="program" /> Программа курса 
 | Номер         | Дата          | Лекция                                            | Семинар                                 |
 | ------------- | ------------- | -------------                                     | -------------                           |   
