@@ -10,7 +10,8 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
-* (2020-04-14) Выложены [девятая лекция](./lectures/lecture09-boost.pdf) и [семинар](./seminars/seminar09-ensembles.ipynb).
+* (2020-05-08) Выложена [десятая лекция](./notebooks/lecture10-matplotlib.ipynb), прочитанная В. Корвяковым и Э. Казиахмедовым.
+* (2020-04-14) Выложены [девятая лекция](./lectures/lecture09-boost.pdf) и [семинар](./notebooks/seminar09-ensembles.ipynb).
 * (2020-04-07) Открыто соревнование на [kaggle](https://www.kaggle.com/t/013153ddc406442fa919d6384ebf5875). Дедлайн: до 15 мая включительно.
 * (2020-04-07) Выложена [восьмая лекция](./lectures/lecture08-ensembles.pdf)
 * (2020-04-01) Выложено [второе практическое задание](./assignments/programming02). Дедлайн отправки: до 01 мая включительно.
