@@ -83,9 +83,9 @@
 ### <a name="en" /> EN version
 
 
-# Введение в компьютерный интеллект. Машинное обучение.
+# Introduction to Computer Intelligence. Machine learning.
 
-## Содержание
+## Content
 * [News](#news1)
 * [Short info](#info1)
 * [Time and place](#ww1)
