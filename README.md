@@ -157,7 +157,7 @@ The lessons are to be taught on Tuesdays at 18:30, main bilding MSU, room 1205.
 * Playground and Cheatsheet for Learning Python: [github repo](https://github.com/trekhleb/learn-python)
 ### Introduction to machine learning
 * Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
-* Machine learning: [Course](https://www.coursera.org/learn/machine-learning) Andrew Ng on the site https://www.coursera.org
+* Machine learning: [Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on the site https://www.coursera.org
 
 * [Last year's course materials](https://github.com/mlcoursemm/mlcoursemm2019spring)
 
